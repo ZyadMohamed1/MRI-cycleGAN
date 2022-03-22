@@ -7,12 +7,15 @@ Using dataset of MRI images and convert a type to another
 
 ## Techniques Used :
 * Data Preparation
-#### Convert data into Gray scale and slices
-#### Convert data into numpy array
+   - Convert data into Gray scale and slices
+   - Convert data into numpy array
+
 * Data Processing
-#### Applying Data Augmentation and Normalization
+   - Applying Data Augmentation and Normalization
+
 * Model Building
-#### cycleGAN U-net Model
+   - cycleGAN U-net Model
+
 * Model Training
 
 ## ToolKits :
